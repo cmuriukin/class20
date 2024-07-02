@@ -1,1 +1,2 @@
 this is awesome:x
+this is line 2
